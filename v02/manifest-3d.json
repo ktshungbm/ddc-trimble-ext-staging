@@ -1,0 +1,10 @@
+{
+  "icon": "https://ktshungbm.github.io/ddc-trimble-ext-staging/v02/brand/LOGO_DAIDUNG_ORIGINAL.png",
+  "enabled": true,
+  "title": "DDC SHOP IFC CONTROL 3D [STAGING-V02]",
+  "description": "DDC 3D Extension: model changes & weight (QA-gated), Part GUID inspector, model-linked RFI.",
+  "url": "https://ktshungbm.github.io/ddc-trimble-ext-staging/v02/viewer.html",
+  "extensionType": [
+    "3dviewer"
+  ]
+}

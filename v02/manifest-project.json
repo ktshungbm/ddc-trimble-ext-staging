@@ -1,0 +1,10 @@
+{
+  "icon": "https://ktshungbm.github.io/ddc-trimble-ext-staging/v02/brand/LOGO_DAIDUNG_ORIGINAL.png",
+  "enabled": true,
+  "title": "DDC SHOP IFC CONTROL [STAGING-V02]",
+  "description": "DDC Project Extension: ISO 19650 folders, IFC files & versions, QA snapshots, reports.",
+  "url": "https://ktshungbm.github.io/ddc-trimble-ext-staging/v02/project.html",
+  "extensionType": [
+    "project"
+  ]
+}
