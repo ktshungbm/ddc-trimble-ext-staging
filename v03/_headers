@@ -1,0 +1,22 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://components.connect.trimble.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self' https://*.connect.trimble.com; frame-ancestors 'self' https://*.connect.trimble.com https://*.trimble.com; base-uri 'self'; form-action 'self'; object-src 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/manifest-project.json
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+
+/manifest-3d.json
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+
+/brand/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=86400
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
